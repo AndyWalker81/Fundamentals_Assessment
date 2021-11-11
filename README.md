@@ -10,11 +10,17 @@ Matplotlib is a comprehensive library for creating static, animated, and interac
 
 ## 2. Quick Steps
 
-You can view the pyplot notebook in static form by clicking the following image:
+You can view the Pyplot Notebook in static form by clicking the following image:
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/AndyWalker81/Fundamentals_Assessment/blob/main/pyplot.ipynb)
 
-You can view the pyplot notebook in dynamic form by clicking the following image:
+You can view the Pyplot Notebook in dynamic form by clicking the following image:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AndyWalker81/Fundamentals_Assessment/HEAD?labpath=pyplot.ipynb)
+
+You can view the CAO Points Notebook in static form by clicking the following image:
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/AndyWalker81/Fundamentals_Assessment/blob/main/cao.ipynb)
+
+You can view the CAO Points Notebook in dynamic form by clicking the following image:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AndyWalker81/Fundamentals_Assessment/HEAD?labpath=cao.ipynb)
 
 ## 3. How to run the notebooks
 

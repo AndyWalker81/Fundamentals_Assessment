@@ -1,3 +1,11 @@
+REQUIRED PACKAGES:
 numpy
-matplotlib
+matplotlib.pyplot
+regular expressions
 requests
+datetime
+pandas
+urllib.request
+
+REQUIRED DATA FILES:
+data/cao2019_20211124_080300_edited.csv

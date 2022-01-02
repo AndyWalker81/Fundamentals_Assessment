@@ -12,10 +12,6 @@
 
 This repository contains two Jupyter notebooks and files containing data related to the notebook demonstrating my work on the Fundamentals for Data Analysis Assessment. The assessment instructions required students to create a Jupyter notebook in relation to `pyplot` and a Jupyter notebook in relation to CAO Points. 
 
-Python is an interpreted, interactive, object-oriented programming language<sup id="a1">[1](#f1)</sup>.
-Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python<sup id="a1">[1](#f1)</sup>.
-```matplotlib.pyplot``` is a state-based interface to matplotlib. It provides a MATLAB-like way of plotting<sup id="a2">[2](#f2)</sup>.
-
 The CAO website can be found [here](http://www.cao.ie/).
 
 Specifically, the assessment instructions required:
@@ -92,5 +88,5 @@ Full references for sources used are provided within the notebook.
 
 ## 8. Contact
 
-[Andrew Walker](G00398788@gmit.ie)
+[Andrew Walker](mailto:G00398788@gmit.ie)
 
